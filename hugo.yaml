@@ -25,4 +25,4 @@ params:
       - RSS
       - JSON
   
-  enableEmoji: true
+enableEmoji: true
