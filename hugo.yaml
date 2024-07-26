@@ -26,9 +26,9 @@ params:
 
   hidemeta: false
   hideSummary: false
-  showtoc: true
-  tocopen: true
-  TocSide: left
+  # showtoc: true
+  # tocopen: false
+  # TocSide: left
 
   math: true
 
@@ -65,25 +65,3 @@ params:
       - JSON
   
 enableEmoji: true
-
-markup:
-  tableOfContents:
-    # Without this, Hugo ToC doesn't show h4 and higher
-    # https://github.com/alex-shpak/hugo-book/issues/52
-    endLevel: 6
-
-  highlight:
-    anchorLineNos: false
-    codeFences: true
-    guessSyntax: true
-    hl_Lines: ""
-    hl_inline: false
-    lineAnchors: ""
-    lineNoStart: 1
-    lineNos: false
-    lineNumbersInTable: true
-    # false means use external CSS file
-    noClasses: false
-    noHl: false
-    # style: monokai
-    tabWidth: 4
