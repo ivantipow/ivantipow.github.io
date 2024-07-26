@@ -1,5 +1,5 @@
 baseURL: https://ivantipow.github.io/
-title: AI about AI
+title: Ivan Antipov
 theme: ["PaperMod"]
 languageCode: en-us
 
@@ -71,9 +71,9 @@ menus:
   - name: Home
     pageRef: /
     weight: 10
-  - name: About Me
+  - name: About
     pageRef: /about
     weight: 20
-  - name: Posts
+  - name: Blog
     pageRef: /posts
     weight: 30

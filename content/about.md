@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "About me"
 layout: "about"
 url: "/about/"
-# summary: archives
+summary: Some info about me
 ---
 
-My Name Is ... (TO BE WRITE)
+I'm Ivan Antipov, machine learning engineer, data scientist and physicist.
