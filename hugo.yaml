@@ -9,6 +9,7 @@ params:
     Content: TO BE CHANGE -
   ShowShareButtons: true
   ShowReadingTime: true
+  ShowToc: true
 
   socialIcons:
     - name: "telegram"
