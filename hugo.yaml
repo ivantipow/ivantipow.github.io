@@ -1,29 +1,63 @@
 baseURL: https://ivantipow.github.io/
-env: "production"
 title: AI about AI
-author: Antipov Ivan
 theme: ["PaperMod"]
 languageCode: en-us
 
 params:
+  env: production
   homeInfoParams:
     Title: ":pencil: Antipov Ivan about AI, ML, Physics & Math"
     Content: "I’m Ivan Antipov, Machine Learning Engineer at Ozon.Tech, Phd in Physics. This blog is a platform where I share my notes and ideas."
+  
+  author: Antipov Ivan
+  keywords: [Antipov Ivan, Blog, Machine Learning, Artificial Intelligence, Physics, Mathematics, ML, AI]
   ShowShareButtons: true
   ShowReadingTime: true
-  ShowToc: false
   ShowPostNavLinks: true
-  hidemeta: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+
+  comments: false
+
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+  TocSide: left
+
+  math: true
+
+  ShowAllPagesInArchive: true
 
   socialIcons:
     - name: "telegram"
       url: "https://t.me/ivantipow"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ivantipow/"
-  
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
   # To search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
   outputs:
     home:
       - HTML
