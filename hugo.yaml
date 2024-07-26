@@ -2,3 +2,14 @@ baseURL: https://ivantipow.github.io/
 languageCode: en-us
 title: Antipov Ivan
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: TO BE CHANGE - Welcome!
+    Content: TO BE CHANGE -
+
+  socialIcons: # optional
+    - name: "telegram"
+      url: "https://t.me/ivantipow"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ivantipow/"
