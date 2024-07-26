@@ -8,6 +8,7 @@ params:
     Title: TO BE CHANGE - Welcome!
     Content: TO BE CHANGE -
   ShowShareButtons: true
+  ShowReadingTime: true
 
   socialIcons:
     - name: "telegram"
