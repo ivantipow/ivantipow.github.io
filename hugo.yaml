@@ -1,15 +1,14 @@
 baseURL: https://ivantipow.github.io/
 env: "production"
-title: Antipov Ivan
-description: TO BE WRITE
+title: AI about AI
 author: Antipov Ivan
 theme: ["PaperMod"]
 languageCode: en-us
 
 params:
   homeInfoParams:
-    Title: "TO BE CHANGE - Welcome! :wave:"
-    Content: TO BE CHANGE -
+    Title: ":pencil: Notes by Ivan Antipov"
+    Content: "Antipov Ivan about AI, ML, Physics and Math :brain: :artificial_satellite: :rocket: :ringed_planet: :atom: :electron:"
   ShowShareButtons: true
   ShowReadingTime: true
   ShowToc: false
