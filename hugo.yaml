@@ -65,3 +65,5 @@ params:
       - JSON
   
 enableEmoji: true
+
+sectionPagesMenu: main
