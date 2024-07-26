@@ -7,8 +7,8 @@ languageCode: en-us
 
 params:
   homeInfoParams:
-    Title: ":pencil: Notes by Ivan Antipov"
-    Content: "Antipov Ivan about AI, ML, Physics and Math :brain: :artificial_satellite: :rocket: :ringed_planet: :atom: :electron:"
+    Title: ":pencil: Antipov Ivan about AI, ML, Physics and Math"
+    Content: "I’m Ivan Antipov, Machine Learning Engineer at Ozon.Tech, Phd in Physics. This blog is a platform where I share my notes and ideas."
   ShowShareButtons: true
   ShowReadingTime: true
   ShowToc: false
