@@ -7,8 +7,8 @@ summary: Some info about me
 
 I'm Ivan Antipov, machine learning engineer, data scientist and physicist.
 
-##### Education
+### Education
 
-##### Physics
+### Physics
 
-##### Machine Learning
+### Machine Learning
