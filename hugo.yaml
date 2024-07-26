@@ -9,7 +9,8 @@ params:
     Content: TO BE CHANGE -
   ShowShareButtons: true
   ShowReadingTime: true
-  ShowToc: true
+  ShowToc: false
+  ShowPostNavLinks: true
 
   socialIcons:
     - name: "telegram"
