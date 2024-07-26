@@ -75,5 +75,5 @@ menus:
     pageRef: /about
     weight: 20
   - name: Blog
-    pageRef: /posts
+    pageRef: /blog
     weight: 30
