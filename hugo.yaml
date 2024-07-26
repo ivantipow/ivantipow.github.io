@@ -39,6 +39,8 @@ params:
       url: "https://www.linkedin.com/in/ivantipow/"
     - name: "telegram"
       url: "https://t.me/ivantipow"
+    - name: "github"
+      url: "https://github.com/ivantipow"
 
   analytics:
     google:
