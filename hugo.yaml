@@ -8,8 +8,15 @@ params:
     Title: TO BE CHANGE - Welcome!
     Content: TO BE CHANGE -
 
-  socialIcons: # optional
+  socialIcons:
     - name: "telegram"
       url: "https://t.me/ivantipow"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ivantipow/"
+  
+  # To search
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
