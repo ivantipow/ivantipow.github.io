@@ -35,10 +35,10 @@ params:
   ShowAllPagesInArchive: true
 
   socialIcons:
-    - name: "telegram"
-      url: "https://t.me/ivantipow"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ivantipow/"
+    - name: "telegram"
+      url: "https://t.me/ivantipow"
 
   analytics:
     google:
