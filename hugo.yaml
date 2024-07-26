@@ -15,6 +15,7 @@ params:
   ShowPostNavLinks: true
   hidemeta: false
   ShowWordCount: true
+  ShowCodeCopyButtons: true
 
   socialIcons:
     - name: "telegram"
