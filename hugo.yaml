@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: TO BE CHANGE - Welcome!
+    Title: TO BE CHANGE - Welcome! :wave:
     Content: TO BE CHANGE -
   ShowShareButtons: true
   ShowReadingTime: true
@@ -23,3 +23,5 @@ params:
       - HTML
       - RSS
       - JSON
+  
+  enableEmoji: true
