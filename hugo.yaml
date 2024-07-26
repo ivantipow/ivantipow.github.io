@@ -71,7 +71,7 @@ menus:
   - name: Home
     pageRef: /
     weight: 10
-  - name: Blogs
+  - name: Blog
     pageRef: /blogpost
     weight: 20
   - name: About
