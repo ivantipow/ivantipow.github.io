@@ -74,9 +74,12 @@ menus:
   - name: Blog
     pageRef: /blogpost
     weight: 20
-  - name: About
-    pageRef: /about
+  - name: Career
+    pageRef: /career
     weight: 30
   - name: Activities
     pageRef: /activities
     weight: 40
+  - name: About
+    pageRef: /about
+    weight: 50
