@@ -31,9 +31,3 @@ params:
       - JSON
   
 enableEmoji: true
-
-menu:
-	main:
-		-identifier: Search
-		name: Search
-		url: /search
