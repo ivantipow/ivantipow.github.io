@@ -9,8 +9,8 @@ params:
     Title: ":pencil: Antipov Ivan about AI, ML, Physics & Math"
     Content: "I’m Ivan Antipov, Machine Learning Engineer, Phd in Physics. This blog is a platform where I share my notes and ideas."
   
-  author: Antipov Ivan
-  keywords: [Antipov Ivan, Blog, Machine Learning, Artificial Intelligence, Physics, Mathematics, ML, AI]
+  # author: Ivan Antipov
+  keywords: [Ivan Antipov, Blog, Machine Learning, Artificial Intelligence, Physics, Mathematics, ML, AI]
   ShowShareButtons: true
   ShowReadingTime: true
   ShowPostNavLinks: true
