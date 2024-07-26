@@ -11,6 +11,7 @@ params:
   ShowReadingTime: true
   ShowToc: false
   ShowPostNavLinks: true
+  hidemeta: false
 
   socialIcons:
     - name: "telegram"
