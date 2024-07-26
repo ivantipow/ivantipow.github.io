@@ -11,7 +11,7 @@ params:
   
   # author: Ivan Antipov
   keywords: [Ivan Antipov, Blog, Machine Learning, Artificial Intelligence, Physics, Mathematics, ML, AI]
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowWordCount: false
