@@ -37,6 +37,8 @@ params:
   socialIcons:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ivantipow/"
+    - name: "link"
+      url: "https://t.me/ai_about_ai/"
     - name: "telegram"
       url: "https://t.me/ivantipow"
     - name: "github"
